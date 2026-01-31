@@ -1,5 +1,10 @@
 # JSON Formatter
 
+[![Try it](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools/json/format)
+[![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools/json/format)
+[![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools/json/format)
+[![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools/json/format)
+
 Format, validate, and beautify JSON online instantly. Interactive tree view, syntax highlighting, search, minify, and validation. Free JSON formatter with no sign-up required.
 
 ## Features
